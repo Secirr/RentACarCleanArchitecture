@@ -1,20 +1,50 @@
 ﻿<Properties StartupConfiguration="{5A5C5789-75A7-4773-AB44-13721819502A}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.src.rentACarCleanArchitecture.WebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/rentACarCleanArchitecture/Domain/Entities/UserType.cs">
+    <Files>
+      <File FileName="src/rentACarCleanArchitecture/Domain/Entities/Car.cs" />
+      <File FileName="src/rentACarCleanArchitecture/Domain/Entities/RentalLog.cs" />
+      <File FileName="src/rentACarCleanArchitecture/Domain/Entities/Model.cs" />
+      <File FileName="src/rentACarCleanArchitecture/Domain/Entities/Brand.cs" />
+      <File FileName="src/rentACarCleanArchitecture/Domain/Entities/BodyType.cs" />
+      <File FileName="src/rentACarCleanArchitecture/Domain/Entities/Color.cs" />
+      <File FileName="src/rentACarCleanArchitecture/Domain/Entities/Statu.cs" />
+      <File FileName="src/rentACarCleanArchitecture/Domain/Entities/FuelType.cs" />
+      <File FileName="src/rentACarCleanArchitecture/Domain/Entities/DriveType.cs" />
+      <File FileName="src/rentACarCleanArchitecture/Domain/Entities/Transmission.cs" />
+      <File FileName="src/corePackages/Core.Persistence/Repositories/Entity.cs" />
+      <File FileName="src/rentACarCleanArchitecture/Domain/Entities/Feature.cs" />
+      <File FileName="src/rentACarCleanArchitecture/Domain/Entities/UserType.cs" Line="17" Column="1" />
+      <File FileName="src/rentACarCleanArchitecture/Domain/Entities/Favorite.cs" />
+      <File FileName="src/rentACarCleanArchitecture/Domain/Entities/User.cs" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="RentACarCleanArchitecture" selected="True">
-            <Node name="tests" expanded="True" />
+          <Node name="RentACarCleanArchitecture">
+            <Node name="src" expanded="True">
+              <Node name="corePackages" expanded="True">
+                <Node name="Core.Persistence" expanded="True">
+                  <Node name="Repositories" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="rentACarCleanArchitecture" expanded="True">
+                <Node name="Domain" expanded="True">
+                  <Node name="Entities" expanded="True">
+                    <Node name="UserType.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.src.rentACarCleanArchitecture.WebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
